@@ -6,7 +6,7 @@
 
 <br clear="both">
 
-<img align="right" height="70" src="https://imgflip.com/memetemplate/511357979/Confused-Monkey.gif"  />
+<img align="right" height="70" src="https://i.imgflip.com/65efzo.gif"  />
 
 ###
 
@@ -76,6 +76,8 @@
 </div>
 
 ###
+
+<br clear="both">
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LaVenGanzaDelLadron/LaVenGanzaDelLadron/output/pacman-contribution-graph-dark.svg">
