@@ -89,7 +89,7 @@
 
 ###
 
-<h4 align="left">🙂 Open to Collaboration</h4>
+<h1 align="left">🙂 Open to Collaboration</h1>
 
 ###
 
