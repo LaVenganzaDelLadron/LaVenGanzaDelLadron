@@ -95,12 +95,6 @@
 
 <h3 align="left">I believe the best way to understand a system is to build it, break it, and rebuild it better.</h3>
 
-###
-
-<p align="left">Most of my repositories are learning-focused, experimental, or problem-solving driven — not just tutorials, but real attempts to understand how things work.</p>
-
-###
-
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=LaVenGanzaDelLadron.LaVenGanzaDelLadron&left_color=aqua&right_color=beige"  />
 </div>
