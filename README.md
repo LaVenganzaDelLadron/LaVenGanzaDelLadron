@@ -8,7 +8,7 @@
 
 <br clear="both">
 
-<img align="right" height="120" src="https://raw.githubusercontent.com/LaVenGanzaDelLadron/LaVenGanzaDelLadron/main/chainsawman.gif" />
+<img align="right" height="120" src="https://raw.githubusercontent.com/LaVenGanzaDelLadron/LaVenGanzaDelLadron/main/hacker.gif" />
 
 ###
 
