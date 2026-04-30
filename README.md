@@ -89,7 +89,17 @@
 
 ###
 
-<p align="left">I’m a developer focused on building real-world systems — from backend APIs and mobile apps to networking tools and IoT-based platforms. I enjoy working close to the system level, understanding how things break, and then making them work better.<br><br>My projects often combine backend logic, mobile, databases, and networking, with a strong interest in security, automation, and performance.</p>
+<p align="left">I am DarkGlitch, a developer and security-minded builder operating at the edge of systems and logic.
+
+I work across backend systems, mobile applications, networking tools, and IoT-based platforms — always close to the machine, where behavior is raw, unstable, and real. I don’t just build systems; I observe how they break, how they react under pressure, and how they can be reinforced.
+
+Alongside development, I explore cybersecurity from a research perspective. I analyze publicly accessible systems for weaknesses and responsibly report issues when discovered, with the goal of strengthening security rather than exploiting it.
+
+My focus blends engineering, automation, and system-level understanding — where code meets infrastructure, and where small flaws reveal deeper structures.
+
+I prefer clean systems, silent logic, and controlled chaos.
+
+Always open to collaboration with developers, builders, and security researchers who operate with curiosity and discipline.</p>
 
 ###
 
