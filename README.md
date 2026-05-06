@@ -1,66 +1,71 @@
 <!-- HEADER -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=header&reversal=true&fontSize=60&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&animation=fadeIn&theme=cobalt" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=header&fontSize=55&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&animation=fadeIn&theme=cobalt" />
 </div>
 
 <br/>
 
-<!-- ANIMATED IMAGE -->
 <div align="center">
   <img height="180" src="https://raw.githubusercontent.com/LaVenGanzaDelLadron/LaVenGanzaDelLadron/main/hacker.gif" />
 </div>
 
 ---
 
-<h1 align="center">Hey, I'm LaVenGanzaDelLadron</h1>
+# Hi, I'm LaVenGanzaDelLadron
 
-<h3 align="center">Developer • Security Researcher • System Explorer</h3>
-
----
-
-## 🧠 About Me
-
-I am **DarkGlitch**, a developer and security-minded builder operating at the edge of systems and logic.
-
-I work across:
-- Backend systems
-- Mobile applications
-- Networking tools
-- IoT-based platforms
-
-I don’t just build systems — I study how they behave, how they fail, and how they can be reinforced under pressure.
-
-Alongside development, I explore cybersecurity from a **research perspective**, focusing on identifying weaknesses in publicly accessible systems and responsibly reporting them to improve security.
-
-My work blends:
-- Engineering
-- Automation
-- System-level thinking
-
-I prefer clean architecture, silent logic, and controlled chaos.
+### Software Developer • Security Researcher • Systems Engineer
 
 ---
 
-## ⚙️ Tech Stack
+## 👤 Profile
 
-<div align="center">
+I am a software developer and security-focused systems builder with experience across backend development, mobile applications, automation tools, and network-based systems.
 
-<img src="https://skillicons.dev/icons?i=py,java,javascript,cpp,html,php,laravel,django,flask,tensorflow,mysql,postgresql,androidstudio,bash,firebase,anaconda,debian,linux" />
+My work is centered around understanding how systems behave under real-world conditions, including performance limitations, failure cases, and security weaknesses.
 
-</div>
+I approach development with an engineering mindset, combining software design, infrastructure awareness, and security research principles.
 
 ---
 
-## 🌐 Connect With Me
+## 🔧 Technical Skills
 
-<div align="center">
+### Programming & Development
+- Python
+- Java
+- JavaScript
+- C++
+- PHP
 
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin" />
-<img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord" />
-<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook" />
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram" />
+### Frameworks & Tools
+- Django
+- Flask
+- Laravel
+- TensorFlow
+- Pandas
+- Android Studio
 
-</div>
+### Databases
+- MySQL
+- PostgreSQL
+- Firebase
+
+### Systems & Environment
+- Linux (Debian-based systems)
+- Bash scripting
+- Anaconda
+
+---
+
+## 🛡️ Security Research
+
+I explore cybersecurity from a **responsible disclosure and research perspective**, focusing on:
+
+- Identifying vulnerabilities in publicly accessible systems  
+- Analyzing API and backend security misconfigurations  
+- Understanding authentication and authorization weaknesses  
+- Reporting findings responsibly to improve system security  
+
+My goal is to contribute to stronger and more secure systems through ethical research practices.
 
 ---
 
@@ -72,13 +77,33 @@ I prefer clean architecture, silent logic, and controlled chaos.
 
 <img src="https://github-readme-streak-stats.demolab.com?user=LaVenGanzaDelLadron&theme=dracula" height="160"/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=LaVenGanzaDelLadron&theme=dracula&no-frame=false&no-bg=false&margin-w=8" height="160"/>
+<img src="https://github-profile-trophy.vercel.app/?username=LaVenGanzaDelLadron&theme=dracula&no-frame=true&margin-w=8" height="160"/>
 
 </div>
 
 ---
 
-## 📈 Contribution Graph
+## 🌐 Contact & Collaboration
+
+I am open to collaboration in the following areas:
+- Backend systems development
+- Security research projects
+- Automation tools
+- Mobile applications
+- Infrastructure and API design
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin" />
+<img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord" />
+<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook" />
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram" />
+
+</div>
+
+---
+
+## 📈 Contribution Activity
 
 <div align="center">
   <picture>
@@ -90,12 +115,8 @@ I prefer clean architecture, silent logic, and controlled chaos.
 
 ---
 
-## 🤝 Open to Collaboration
+## 📌 Philosophy
 
-I am open to collaborating with developers, builders, and security researchers who operate with curiosity and discipline.
+> “The best way to understand a system is to design it, test its limits, and improve it through iteration.”
 
 ---
-
-## 🧩 Philosophy
-
-> “I believe the best way to understand a system is to build it, break it, and rebuild it better.”
