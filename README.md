@@ -45,7 +45,7 @@ I prefer clean architecture, silent logic, and controlled chaos.
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=py,java,javascript,cpp,html,php,laravel,django,flask,tensorflow,pandas,mysql,postgresql,androidstudio,bash,firebase,anaconda,debian,linux" />
+<img src="https://skillicons.dev/icons?i=py,java,javascript,cpp,html,php,laravel,django,flask,tensorflow,mysql,postgresql,androidstudio,bash,firebase,anaconda,debian,linux" />
 
 </div>
 
