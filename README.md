@@ -6,7 +6,7 @@
 <br/>
 
 <div align="center">
-  <img height="180" src="https://raw.githubusercontent.com/LaVenGanzaDelLadron/LaVenGanzaDelLadron/main/hacker.gif" />
+  <img height="180" src="https://raw.githubusercontent.com/LaVenganzaDelLadron/LaVenganzaDelLadron/main/hacker.gif" />
 </div>
 
 ---
@@ -73,11 +73,11 @@ My goal is to contribute to stronger and more secure systems through ethical res
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=LaVenGanzaDelLadron&layout=compact&theme=dracula" height="160"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=LaVenganzaDelLadron&layout=compact&theme=dracula" height="160"/>
 
-<img src="https://github-readme-streak-stats.demolab.com?user=LaVenGanzaDelLadron&theme=dracula" height="160"/>
+<img src="https://github-readme-streak-stats.demolab.com?user=LaVenganzaDelLadron&theme=dracula" height="160"/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=LaVenGanzaDelLadron&theme=dracula&no-frame=true&margin-w=8" height="160"/>
+<img src="https://github-profile-trophy.vercel.app/?username=LaVenganzaDelLadron&theme=dracula&no-frame=true&margin-w=8" height="160"/>
 
 </div>
 
@@ -107,9 +107,9 @@ I am open to collaboration in the following areas:
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LaVenGanzaDelLadron/LaVenGanzaDelLadron/output/pacman-contribution-graph-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/LaVenGanzaDelLadron/LaVenGanzaDelLadron/output/pacman-contribution-graph.svg">
-    <img src="https://raw.githubusercontent.com/LaVenGanzaDelLadron/LaVenGanzaDelLadron/output/pacman-contribution-graph.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LaVenganzaDelLadron/LaVenganzaDelLadron/output/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/LaVenganzaDelLadron/LaVenganzaDelLadron/output/pacman-contribution-graph.svg">
+    <img src="https://raw.githubusercontent.com/LaVenGanzaDelLadron/LaVenganzaDelLadron/output/pacman-contribution-graph.svg" />
   </picture>
 </div>
 
