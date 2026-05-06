@@ -1,112 +1,101 @@
-<br clear="both">
-
-<div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=true&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=fadeIn&descSize=20&descAlign=50&descAlignY=50&textBg=false&theme=cobalt"  />
+<!-- HEADER -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=header&reversal=true&fontSize=60&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&animation=fadeIn&theme=cobalt" />
 </div>
 
-###
+<br/>
 
-<br clear="both">
+<!-- ANIMATED IMAGE -->
+<div align="center">
+  <img height="180" src="https://raw.githubusercontent.com/LaVenGanzaDelLadron/LaVenGanzaDelLadron/main/hacker.gif" />
+</div>
 
-<img align="right" height="150" src="https://raw.githubusercontent.com/LaVenGanzaDelLadron/LaVenGanzaDelLadron/main/hacker.gif" />
-
-###
+---
 
 <h1 align="center">Hey, I'm LaVenGanzaDelLadron</h1>
 
-###
+<h3 align="center">Developer • Security Researcher • System Explorer</h3>
+
+---
+
+## 🧠 About Me
+
+I am **DarkGlitch**, a developer and security-minded builder operating at the edge of systems and logic.
+
+I work across:
+- Backend systems
+- Mobile applications
+- Networking tools
+- IoT-based platforms
+
+I don’t just build systems — I study how they behave, how they fail, and how they can be reinforced under pressure.
+
+Alongside development, I explore cybersecurity from a **research perspective**, focusing on identifying weaknesses in publicly accessible systems and responsibly reporting them to improve security.
+
+My work blends:
+- Engineering
+- Automation
+- System-level thinking
+
+I prefer clean architecture, silent logic, and controlled chaos.
+
+---
+
+## ⚙️ Tech Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=py" height="50" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="50" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="50" alt="tensorflow logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="50" alt="pandas logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="50" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="50" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="50" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="50" alt="php logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="50" alt="laravel logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="50" alt="androidstudio logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="50" alt="django logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="50" alt="flask logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="50" alt="bash logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="50" alt="firebase logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="50" alt="anaconda logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" height="50" alt="debian logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="50" alt="linux logo"  />
+
+<img src="https://skillicons.dev/icons?i=py,java,javascript,cpp,html,php,laravel,django,flask,tensorflow,pandas,mysql,postgresql,androidstudio,bash,firebase,anaconda,debian,linux" />
+
 </div>
 
-###
+---
+
+## 🌐 Connect With Me
 
 <div align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="facebook logo"  />
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
+
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin" />
+<img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord" />
+<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook" />
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram" />
+
 </div>
 
-###
+---
+
+## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=LaVenGanzaDelLadron&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=LaVenGanzaDelLadron&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-profile-trophy.vercel.app?username=LaVenGanzaDelLadron&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=LaVenGanzaDelLadron&layout=compact&theme=dracula" height="160"/>
+
+<img src="https://github-readme-streak-stats.demolab.com?user=LaVenGanzaDelLadron&theme=dracula" height="160"/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=LaVenGanzaDelLadron&theme=dracula&no-frame=false&no-bg=false&margin-w=8" height="160"/>
+
 </div>
 
-###
+---
 
-<br clear="both">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LaVenGanzaDelLadron/LaVenGanzaDelLadron/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/LaVenGanzaDelLadron/LaVenGanzaDelLadron/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/LaVenGanzaDelLadron/LaVenGanzaDelLadron/output/pacman-contribution-graph.svg">
-</picture>
-
-###
-
-<h1 align="left">🙂 Open to Collaboration</h1>
-
-###
-
-<p align="left">I am DarkGlitch, a developer and security-minded builder operating at the edge of systems and logic.
-
-I work across backend systems, mobile applications, networking tools, and IoT-based platforms — always close to the machine, where behavior is raw, unstable, and real. I don’t just build systems; I observe how they break, how they react under pressure, and how they can be reinforced.
-
-Alongside development, I explore cybersecurity from a research perspective. I analyze publicly accessible systems for weaknesses and responsibly report issues when discovered, with the goal of strengthening security rather than exploiting it.
-
-My focus blends engineering, automation, and system-level understanding — where code meets infrastructure, and where small flaws reveal deeper structures.
-
-I prefer clean systems, silent logic, and controlled chaos.
-
-Always open to collaboration with developers, builders, and security researchers who operate with curiosity and discipline.</p>
-
-###
-
-<h3 align="left">I believe the best way to understand a system is to build it, break it, and rebuild it better.</h3>
+## 📈 Contribution Graph
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=LaVenGanzaDelLadron.LaVenGanzaDelLadron&left_color=aqua&right_color=beige"  />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LaVenGanzaDelLadron/LaVenGanzaDelLadron/output/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/LaVenGanzaDelLadron/LaVenGanzaDelLadron/output/pacman-contribution-graph.svg">
+    <img src="https://raw.githubusercontent.com/LaVenGanzaDelLadron/LaVenGanzaDelLadron/output/pacman-contribution-graph.svg" />
+  </picture>
 </div>
 
-###
+---
+
+## 🤝 Open to Collaboration
+
+I am open to collaborating with developers, builders, and security researchers who operate with curiosity and discipline.
+
+---
+
+## 🧩 Philosophy
+
+> “I believe the best way to understand a system is to build it, break it, and rebuild it better.”
