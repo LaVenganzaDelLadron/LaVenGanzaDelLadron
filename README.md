@@ -83,7 +83,7 @@ Experienced in developing:
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LaVenganzaDelLadron&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00ffc6&icon_color=00ffc6&text_color=ffffff"/>
 
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=LaVenganzaDelLadron&theme=tokyonight&hide_border=true&background=0D1117&ring=00FFC6&fire=00FFC6&currStreakLabel=00FFC6"/>
+<img height="180em" src="https://streak-stats.demolab.com?user=LaVenganzaDelLadron&theme=tokyonight&hide_border=true&background=0D1117&ring=00FFC6&fire=00FFC6&currStreakLabel=00FFC6"/>
 
 </div>
 
@@ -118,7 +118,6 @@ Experienced in developing:
 <img src="https://github-profile-trophy.vercel.app/?username=LaVenganzaDelLadron&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=1"/>
 
 </div>
-
 ---
 
 # <div align="center">🚀 FEATURED SKILLS 🚀</div>
