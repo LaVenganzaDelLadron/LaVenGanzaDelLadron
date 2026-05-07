@@ -50,11 +50,7 @@ Building secure authentication systems, monitoring tools, automation services, a
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=30&duration=2500&pause=1000&color=00BFFF&center=true&vCenter=true&width=500&lines=📊+GitHub+Stats" />
 
-<br><br>
-
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=LaVenganzaDelLadron&theme=tokyonight" />
-
-<br><br>
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=LaVenganzaDelLadron&theme=tokyonight" />
 
