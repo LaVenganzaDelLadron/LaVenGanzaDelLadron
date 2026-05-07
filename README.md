@@ -42,12 +42,6 @@ Building secure authentication systems, monitoring tools, automation services, a
 
 <div align="center">
 
-### 📊 GitHub Analytics
-
-<!-- GITHUB STATS -->
-
-<div align="center">
-
 <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=30&duration=2500&pause=1000&color=00BFFF&center=true&vCenter=true&width=500&lines=📊+GitHub+Stats" />
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=LaVenganzaDelLadron&theme=tokyonight" />
@@ -56,9 +50,9 @@ Building secure authentication systems, monitoring tools, automation services, a
 
 </div>
 
----
-
 <div align="center">
+
+---
 
 ### 📈 Total Contributions
 
