@@ -1,18 +1,20 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:000000,25:001a1a,50:00ff99,75:001a1a,100:000000&text=LaVenganzaDelLadron&fontColor=00ff99&fontSize=55&fontAlignY=38&desc=Cybersecurity%20Researcher%20•%20Backend%20Developer%20•%20Android%20Developer&descAlignY=58&animation=twinkling"/>
-
-<img src="./hacker.gif" width="650px" alt="hacker gif"/>
-
-<br><br>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=00FF99&center=true&vCenter=true&width=1000&lines=[+]+Initializing+Cyber+Systems...;[+]+Bug+Bounty+Hunter;[+]+Python+Developer;[+]+Java+%26+Kotlin+Developer;[+]+FastAPI+%26+Backend+Systems;[+]+Mobile+%26+Network+Security+Enthusiast;[+]+Ethical+Hacker+%26+Security+Researcher" alt="Typing SVG" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:050505,25:0b0f12,50:00ff99,75:0b0f12,100:050505&text=LaVenganzaDelLadron&fontColor=00ff99&fontSize=52&fontAlignY=38&desc=Cybersecurity%20Researcher%20•%20Backend%20Engineer%20•%20Android%20Developer&descAlignY=58&animation=fadeIn"/>
 
 <br>
 
-<img src="https://img.shields.io/badge/STATUS-ONLINE-00ff99?style=for-the-badge&logo=matrix&logoColor=black"/>
+<img src="./hacker.gif" width="720px" alt="Cybersecurity Animation"/>
+
+<br><br>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=23&pause=1000&color=00FF99&center=true&vCenter=true&width=1000&lines=Cybersecurity+Researcher;Backend+Systems+Engineer;Android+Developer;Bug+Bounty+Hunter;FastAPI+%26+API+Infrastructure;Mobile+%26+Network+Security+Enthusiast" alt="Typing SVG" />
+
+<br><br>
+
 <img src="https://img.shields.io/badge/CYBERSECURITY-RESEARCHER-00ff99?style=for-the-badge&logo=hackthebox&logoColor=black"/>
 <img src="https://img.shields.io/badge/FOCUS-BACKEND%20SYSTEMS-00ff99?style=for-the-badge&logo=serverless&logoColor=black"/>
+<img src="https://img.shields.io/badge/STATUS-ACTIVE-00ff99?style=for-the-badge&logo=matrix&logoColor=black"/>
 
 <br><br>
 
@@ -26,29 +28,23 @@
 
 <div align="center">
 
-```diff
-+ Cybersecurity Researcher
-+ Backend Systems Engineer
-+ Android Application Developer
-+ Ethical Hacker
-+ API & Infrastructure Specialist
-```
+```yaml
+name: LaVenganzaDelLadron
+role: Cybersecurity Researcher & Backend Engineer
 
-</div>
+specializations:
+  - Backend Systems
+  - Android Development
+  - API Engineering
+  - Vulnerability Research
+  - Security Analysis
 
-<div align="center">
-
-```bash
-> Passionate about cybersecurity, backend engineering,
-> and responsible vulnerability disclosure.
-
-> Focused on secure backend systems, Android development,
-> scalable APIs, penetration testing, and automation tools.
-
-> Exploring:
-> Python • Java • Kotlin • FastAPI • Firebase
-> Networking • Mobile Security • Machine Learning APIs
-> Client-Server Systems • Linux Infrastructure
+interests:
+  - Penetration Testing
+  - Machine Learning APIs
+  - Networking
+  - Mobile Security
+  - Client-Server Architecture
 ```
 
 </div>
@@ -57,37 +53,16 @@
 
 <div align="center">
 
-<table>
-<tr>
-<td align="center" width="50%">
+Passionate about cybersecurity, secure backend engineering, and responsible vulnerability disclosure.  
+Focused on designing scalable systems, Android applications, secure APIs, and infrastructure tools with an emphasis on reliability, performance, and security.
 
-### 🔐 SECURITY FOCUS
-• Vulnerability Research  
-• Penetration Testing  
-• Threat Analysis  
-• Ethical Hacking  
-• Secure Infrastructure  
-
-</td>
-
-<td align="center" width="50%">
-
-### ⚙️ DEVELOPMENT FOCUS
-• Backend APIs  
-• Android Applications  
-• Firebase Systems  
-• Automation Tools  
-• Monitoring Platforms  
-
-</td>
-</tr>
-</table>
+Experienced in developing authentication systems, scheduling platforms, remote management tools, monitoring systems, API services, and multiplayer applications while continuously exploring modern offensive and defensive security methodologies.
 
 </div>
 
 ---
 
-# <div align="center">🛠️ TECH STACK 🛠️</div>
+# <div align="center">🛠️ TECHNOLOGY STACK 🛠️</div>
 
 <div align="center">
 
@@ -99,14 +74,15 @@
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=00ff99"/>
-<img src="https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=openjdk&logoColor=00ff99"/>
-<img src="https://img.shields.io/badge/Kotlin-000000?style=for-the-badge&logo=kotlin&logoColor=00ff99"/>
-<img src="https://img.shields.io/badge/FastAPI-000000?style=for-the-badge&logo=fastapi&logoColor=00ff99"/>
-<img src="https://img.shields.io/badge/Firebase-000000?style=for-the-badge&logo=firebase&logoColor=00ff99"/>
-<img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=00ff99"/>
-<img src="https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=00ff99"/>
-<img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=00ff99"/>
+<img src="https://img.shields.io/badge/Python-050505?style=for-the-badge&logo=python&logoColor=00ff99"/>
+<img src="https://img.shields.io/badge/Java-050505?style=for-the-badge&logo=openjdk&logoColor=00ff99"/>
+<img src="https://img.shields.io/badge/Kotlin-050505?style=for-the-badge&logo=kotlin&logoColor=00ff99"/>
+<img src="https://img.shields.io/badge/FastAPI-050505?style=for-the-badge&logo=fastapi&logoColor=00ff99"/>
+<img src="https://img.shields.io/badge/Firebase-050505?style=for-the-badge&logo=firebase&logoColor=00ff99"/>
+<img src="https://img.shields.io/badge/Linux-050505?style=for-the-badge&logo=linux&logoColor=00ff99"/>
+<img src="https://img.shields.io/badge/MySQL-050505?style=for-the-badge&logo=mysql&logoColor=00ff99"/>
+<img src="https://img.shields.io/badge/SQLite-050505?style=for-the-badge&logo=sqlite&logoColor=00ff99"/>
+<img src="https://img.shields.io/badge/Git-050505?style=for-the-badge&logo=git&logoColor=00ff99"/>
 
 </div>
 
@@ -116,9 +92,9 @@
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=LaVenganzaDelLadron&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=000000&title_color=00ff99&icon_color=00ff99&text_color=ffffff"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=LaVenganzaDelLadron&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=050505&title_color=00ff99&icon_color=00ff99&text_color=ffffff"/>
 
-<img height="180em" src="https://streak-stats.demolab.com?user=LaVenganzaDelLadron&theme=chartreuse-dark&hide_border=true&background=000000&ring=00ff99&fire=00ff99&currStreakLabel=00ff99"/>
+<img height="180em" src="https://streak-stats.demolab.com?user=LaVenganzaDelLadron&theme=chartreuse-dark&hide_border=true&background=050505&ring=00ff99&fire=00ff99&currStreakLabel=00ff99"/>
 
 </div>
 
@@ -126,7 +102,7 @@
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LaVenganzaDelLadron&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=000000&title_color=00ff99&text_color=ffffff"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LaVenganzaDelLadron&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=050505&title_color=00ff99&text_color=ffffff"/>
 
 </div>
 
@@ -142,7 +118,7 @@
 
 <div align="center">
 
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=LaVenganzaDelLadron&theme=github-compact&hide_border=true&bg_color=000000&color=00ff99&line=00ff99&point=ffffff"/>
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=LaVenganzaDelLadron&theme=github-compact&hide_border=true&bg_color=050505&color=00ff99&line=00ff99&point=ffffff"/>
 
 </div>
 
@@ -156,47 +132,77 @@
 
 ---
 
-# <div align="center">🚀 FEATURED SKILLS 🚀</div>
+# <div align="center">🚀 CORE EXPERTISE 🚀</div>
 
 <div align="center">
 
 | DOMAIN | SPECIALIZATION |
 |---|---|
-| 🔐 CYBERSECURITY | Vulnerability Research • Ethical Hacking • Security Testing |
-| ⚡ BACKEND ENGINEERING | FastAPI • API Development • Authentication Systems |
-| 📱 ANDROID DEVELOPMENT | Java • Kotlin • Firebase Applications |
-| 🌐 NETWORK PROGRAMMING | Client-Server Systems • Remote Management |
-| 🛡️ SECURITY ANALYSIS | Threat Monitoring • Detection Systems |
-| 🤖 AUTOMATION | Python Scripts • Monitoring Tools • Backend Utilities |
-| 🧠 MACHINE LEARNING APIs | Intelligent API Integrations & AI Systems |
+| 🔐 Cybersecurity Research | Vulnerability Analysis • Ethical Hacking • Security Assessment |
+| ⚡ Backend Engineering | FastAPI • Authentication Systems • API Infrastructure |
+| 📱 Android Development | Native Android Applications using Java & Kotlin |
+| 🌐 Networking & Systems | Client-Server Communication • Infrastructure Tools |
+| 🛡️ Security Monitoring | Detection Systems • Threat Monitoring • Automation |
+| 🤖 Automation Engineering | Python Utilities • Backend Automation • Monitoring Scripts |
+| 🧠 Intelligent APIs | ML-Driven APIs • AI Integrations • Data Processing |
 
 </div>
 
 ---
 
-# <div align="center">💻 PROJECTS TERMINAL 💻</div>
+# <div align="center">💼 FEATURED PROJECTS 💼</div>
 
 <div align="center">
 
-```bash
-[+] SmartHOG AI Monitoring System
- └─ AI-powered analytics and infrastructure monitoring
+<table>
+<tr>
+<td width="50%">
 
-[+] Android Appointment System
- └─ Secure scheduling and Firebase backend integration
+### 🤖 SmartHOG AI Monitoring System
+AI-powered monitoring platform for infrastructure analytics, system tracking, and intelligent alerting.
 
-[+] Crossword Multiplayer Game
- └─ Realtime multiplayer quiz and puzzle platform
+</td>
 
-[+] FastAPI ML Service
- └─ Machine learning API processing infrastructure
+<td width="50%">
 
-[+] Firebase Authentication Apps
- └─ Authentication-focused Android and web systems
+### 📅 Android Appointment System
+Secure appointment and scheduling application with Firebase backend integration and authentication.
 
-[+] Monitoring & Detection Systems
- └─ Remote monitoring and cybersecurity analytics
-```
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 🎮 Crossword Multiplayer Platform
+Realtime multiplayer crossword and quiz application with synchronized backend communication.
+
+</td>
+
+<td width="50%">
+
+### ⚡ FastAPI Machine Learning Service
+Scalable backend infrastructure integrating machine learning APIs and automated processing systems.
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 🔑 Firebase Authentication Applications
+Authentication-focused Android and web applications with secure user management systems.
+
+</td>
+
+<td width="50%">
+
+### 🛡️ Monitoring & Detection Infrastructure
+Security-focused monitoring systems designed for analytics, automation, and remote management.
+
+</td>
+</tr>
+</table>
 
 </div>
 
@@ -207,19 +213,19 @@
 <div align="center">
 
 <a href="https://github.com/LaVenganzaDelLadron">
-<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=00ff99"/>
+<img src="https://img.shields.io/badge/GitHub-050505?style=for-the-badge&logo=github&logoColor=00ff99"/>
 </a>
 
 <a href="mailto:your-email@example.com">
-<img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=00ff99"/>
+<img src="https://img.shields.io/badge/Email-050505?style=for-the-badge&logo=gmail&logoColor=00ff99"/>
 </a>
 
 <a href="#">
-<img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=00ff99"/>
+<img src="https://img.shields.io/badge/LinkedIn-050505?style=for-the-badge&logo=linkedin&logoColor=00ff99"/>
 </a>
 
 <a href="#">
-<img src="https://img.shields.io/badge/Discord-000000?style=for-the-badge&logo=discord&logoColor=00ff99"/>
+<img src="https://img.shields.io/badge/Discord-050505?style=for-the-badge&logo=discord&logoColor=00ff99"/>
 </a>
 
 </div>
@@ -230,11 +236,11 @@
 
 ```diff
 - Security is not just finding vulnerabilities
-+ It is helping protect people and systems.
++ It is helping protect people, systems, and infrastructure.
 ```
 
 <br>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:000000,50:00ff99,100:000000"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:050505,50:00ff99,100:050505"/>
 
 </div>
