@@ -44,17 +44,19 @@ Building secure authentication systems, monitoring tools, automation services, a
 
 ### 📊 GitHub Analytics
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=LaVenganzaDelLadron&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=050505&title_color=00ff99&icon_color=00ff99&text_color=ffffff"/>
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LaVenganzaDelLadron&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=050505&title_color=00ff99&text_color=ffffff"/>
-
-</div>
-
-<br>
+<!-- GITHUB STATS -->
 
 <div align="center">
 
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=LaVenganzaDelLadron&theme=github-compact&hide_border=true&bg_color=050505&color=00ff99&line=00ff99&point=ffffff"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=30&duration=2500&pause=1000&color=00BFFF&center=true&vCenter=true&width=500&lines=📊+GitHub+Stats" />
+
+<br><br>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=LaVenganzaDelLadron&theme=tokyonight" />
+
+<br><br>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=LaVenganzaDelLadron&theme=tokyonight" />
 
 </div>
 
