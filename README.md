@@ -67,11 +67,6 @@ Building secure authentication systems, monitoring tools, automation services, a
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=LaVenganzaDelLadron&theme=chartreuse-dark&hide_border=true&background=050505&ring=00ff99&fire=00ff99&currStreakLabel=00ff99"/>
 
 <br><br>
-
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=LaVenganzaDelLadron&theme=github-compact&hide_border=true&bg_color=050505&color=00ff99&line=00ff99&point=ffffff"/>
-
-</div>
-
 ---
 
 <div align="center">
