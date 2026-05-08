@@ -92,7 +92,7 @@ Building secure authentication systems, monitoring tools, automation services, a
 <div align="center">
 
 > *"Security is not just finding vulnerabilities — it is protecting systems and people.
-> Learn by building; breaking rebuilding."*
+> Learn by building; breaking; rebuilding."*
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0:050505,100:00ff99"/>
 
