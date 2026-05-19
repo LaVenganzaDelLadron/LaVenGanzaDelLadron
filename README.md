@@ -32,20 +32,6 @@ Building secure authentication systems, monitoring tools, automation services, s
 
 <div align="center">
 
-## 🛠 Tech Stack
-
-<img src="https://skillicons.dev/icons?i=python,java,kotlin,fastapi,firebase,androidstudio,linux,git,mysql,sqlite,js&theme=dark" />
-
-<br><br>
-
-<img src="https://skillicons.dev/icons?i=ts,nextjs,tailwind,graphql,go,rust,nestjs,aws&theme=dark" />
-
-</div>
-
----
-
-<div align="center">
-
 ## 🚀 Focus Areas
 
 🔐 Cybersecurity Research  
