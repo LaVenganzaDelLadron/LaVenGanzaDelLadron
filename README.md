@@ -105,7 +105,7 @@ Building secure authentication systems, monitoring tools, automation services, s
 
 ## ⚙️ Technologies & Tools
 
-<img src="https://skillicons.dev/icons?i=python,java,kotlin,ts,nextjs,tailwind,graphql,go,rust,nestjs,aws,firebase,linux,mysql,sqlite,git,docker&theme=dark" />
+<img src="https://skillicons.dev/icons?i=python,laravel,django,java,kotlin,flask,fastapi,firebase,linux,mysql,sqlite,git,docker&theme=dark" />
 
 </div>
 
