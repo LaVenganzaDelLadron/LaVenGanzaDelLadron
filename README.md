@@ -85,11 +85,6 @@ Building secure authentication systems, monitoring tools, automation services, s
 
 <div align="center">
 
-## 📊 GitHub Analytics
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=LaVenganzaDelLadron&theme=tokyonight" />
-
-<br>
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=LaVenganzaDelLadron&theme=tokyonight" />
 
