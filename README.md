@@ -18,7 +18,4 @@ Hi, I’m Glitch — a developer focused on building Android apps, backend syste
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=LaVenganzaDelLadron&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
----
-[![](https://komarev.com/ghpvc/?username=LaVenganzaDelLadron&icon=4&color=2)](https://visitcount.itsvg.in)
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
