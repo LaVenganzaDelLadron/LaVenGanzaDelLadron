@@ -1,6 +1,9 @@
 # 💫 About Me:
 Hi, I’m Glitch — a developer focused on building Android apps, backend systems, and cybersecurity-related projects.<br><br>I work mainly with Java, Kotlin, Python, and C++, building mobile apps, client-server systems, and API-based platforms. I’m also interested in cybersecurity, especially networking, system behavior, and ethical hacking concepts from a learning and defensive perspective.<br><br>I enjoy creating clean, minimal, and real-world applicable systems while continuously improving my skills in software development and security.
 
+<p align="center">
+  <img src="hacker.gif" width="500">
+</p>
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/elton.jhon.lape.justaga/) 
