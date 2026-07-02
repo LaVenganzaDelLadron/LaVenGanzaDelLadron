@@ -10,8 +10,8 @@ $ whoami
 │ Kernel    : Android • Backend • Security     │
 │ Uptime    : Always learning                  │
 │                                              │
-│ Languages : Java • Kotlin • Python • C++     │
-│             TypeScript • PHP • Lua           │
+│ Languages : Java • Kotlin • Python • C/C++   │
+│             PHP • Lua                        │
 │                                              │
 │ Stack     : FastAPI • Flask • Django         │
 │                                              │
@@ -24,12 +24,12 @@ $ whoami
 ```
 ```text
 ┌─── SKILLS ─────────────────────────┐     ┌─── INTERESTS ─────────────────────────┐
-│ Java        ██████████             │     │ • Penetration Testing                 │
+│ Java        ████████████           │     │ • Penetration Testing                 │
 │ Kotlin      ███████                │     │ • Android Development                 │
 │ Python      █████████████          │     │ • Backend Engineering                 │
-│ C++         █████████              │     │ • API Design                          │
-│ TypeScript  █████                  │     │ • Cybersecurity                       │
-│ PHP         █████                  │     │ • System Exploration                  │
+│ C/C++       ██████                 │     │ • API Design                          │
+│ Lua         ███                    │     │ • Cybersecurity                       │
+│                                    │     │ • System Exploration                  │
 └────────────────────────────────────┘     └───────────────────────────────────────┘
 ```
 </div>
