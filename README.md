@@ -11,7 +11,7 @@ $ whoami
 │ Uptime    : Always learning                  │
 │                                              │
 │ Languages : Java • Kotlin • Python • C/C++   │
-│             PHP • Lua                        │
+│             Lua                              │
 │                                              │
 │ Stack     : FastAPI • Flask • Django         │
 │                                              │
