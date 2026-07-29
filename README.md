@@ -28,9 +28,9 @@ $ whoami
 │ Kotlin      ███████                │     │ • Android Development                 │
 │ Python      █████████████          │     │ • Backend Engineering                 │
 │ C/C++       ██████                 │     │ • API Design                          │
-│ Lua         ███                    │     │ • Cybersecurity                       │
-│                                    │     │ • System Exploration                  │
-└────────────────────────────────────┘     └───────────────────────────────────────┘
+└────────────────────────────────────┘     │ • Cybersecurity                       │
+                                           │ • System Exploration                  │
+                                           └───────────────────────────────────────┘
 ```
 </div>
 
