@@ -50,10 +50,6 @@ $ whoami
 
 <br clear="both">
 
-<img src="https://github-readme-stats.vercel.app/api?username=LaVenganzaDelLadron&show_icons=true&theme=dracula" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LaVenganzaDelLadron&layout=compact&theme=dracula" />
-
 <img src="https://streak-stats.demolab.com?user=LaVenganzaDelLadron&theme=dracula" />
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=LaVenganzaDelLadron&theme=dracula" />
