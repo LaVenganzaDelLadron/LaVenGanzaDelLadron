@@ -50,6 +50,9 @@ $ whoami
 
 <br clear="both">
 
+### 📊 My Coding Stats
+[![Top Langs](https://vercel.app)](https://github.com)
+
 <img src="https://streak-stats.demolab.com?user=LaVenganzaDelLadron&theme=dracula" />
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=LaVenganzaDelLadron&theme=dracula" />
