@@ -50,7 +50,7 @@ $ whoami
 
 <br clear="both">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LaVenganzaDelLadron&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LaVenganzaDelLadron&layout=compact&theme=dracula&langs_count=8&hide=html,css)](https://github.com/anuraghazra/github-readme-stats)
 
 <img src="https://streak-stats.demolab.com?user=LaVenganzaDelLadron&theme=dracula" />
 
