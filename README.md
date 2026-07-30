@@ -50,8 +50,7 @@ $ whoami
 
 <br clear="both">
 
-### 📊 My Coding Stats
-[![Top Langs](https://vercel.app)](https://github.com)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LaVenganzaDelLadron&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 <img src="https://streak-stats.demolab.com?user=LaVenganzaDelLadron&theme=dracula" />
 
