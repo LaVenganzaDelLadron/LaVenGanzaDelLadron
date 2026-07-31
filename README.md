@@ -49,12 +49,16 @@ $ whoami
 ```
 
 <br clear="both">
-
+<table>
+  <tr>
+    <td width="50%" valign="top">
 <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=LaVenganzaDelLadron&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact"
              width="100%" style="display:block; margin:0;" alt="Top Languages"/>
 
 <img src="https://streak-stats.demolab.com?user=LaVenganzaDelLadron&theme=dracula" />
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=LaVenganzaDelLadron&theme=dracula" />
-
+    </td>
+  </tr>
+</table>
 ###
