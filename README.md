@@ -50,7 +50,8 @@ $ whoami
 
 <br clear="both">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LaVenganzaDelLadron&layout=compact&theme=dracula&langs_count=8&hide=html,css)](https://github.com/anuraghazra/github-readme-stats)
+<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=LaVenganzaDelLadron&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact"
+             width="100%" style="display:block; margin:0;" alt="Top Languages"/>
 
 <img src="https://streak-stats.demolab.com?user=LaVenganzaDelLadron&theme=dracula" />
 
