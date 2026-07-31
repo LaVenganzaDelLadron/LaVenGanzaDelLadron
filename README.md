@@ -53,7 +53,7 @@ $ whoami
   <tr>
     <td width="50%" valign="top">
 <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=LaVenganzaDelLadron&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact"
-     width="500px" />
+     width="400px" />
 
 <img src="https://streak-stats.demolab.com?user=LaVenganzaDelLadron&theme=dracula" />
 
