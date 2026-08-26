@@ -40,21 +40,3 @@
   │ GitHub    : github.com/LaVenganzaDelLadron              │
   │ Instagram : instagram.com/ejay.justaga                  │
   └─────────────────────────────────────────────────────────┘
-  <br />
-
-<img
-  src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=LaVenganzaDelLadron&theme=dracula&hide_border=true&layout=compact"
-  alt="Most used languages"
-  height="165"
-/>
-
-<img
-  src="https://streak-stats.demolab.com?user=LaVenganzaDelLadron&theme=dracula&hide_border=true"
-  alt="GitHub contribution streak"
-/>
-
-<img
-  src="https://github-readme-activity-graph.vercel.app/graph?username=LaVenganzaDelLadron&theme=dracula&hide_border=true"
-  alt="GitHub activity graph"
-/>
-</div>
