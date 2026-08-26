@@ -6,7 +6,7 @@ $ whoami
 ┌──────────────────────────────────────────────┐
 │                 DARKGLITCH                   │
 ├──────────────────────────────────────────────┤
-│ OS        : Kali Linux                       │
+│ OS        : Omarchy                          │
 │ Kernel    : Android • Backend • Security     │
 │ Uptime    : Always learning                  │
 │                                              │
